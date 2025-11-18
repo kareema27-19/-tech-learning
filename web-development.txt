@@ -6,3 +6,5 @@ The Frontend section in web development refers to the part of a website or web a
 The Backend section (also called server-side) is the part of a website or web application that users do NOT see, but it makes everything work behind the scenes.
 
 The Database section in web development refers to the part of the system that is responsible for storing, organizing, and managing data so that the backend can use it.
+Conclusion:
+Web development involves frontend, backend, and database sections working together to create functional and user-friendly websites.
