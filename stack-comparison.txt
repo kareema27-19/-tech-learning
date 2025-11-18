@@ -1,0 +1,19 @@
+MERN vs .NET (Full Comparison)
+⭐ What is MERN?
+
+MERN is a JavaScript-based stack for building web apps.
+
+Layer	Technology
+Frontend	React
+Backend	Node.js + Express
+Database	MongoDB (NoSQL)
+Language	JavaScript (everywhere)
+⭐ What is .NET?
+
+.NET (specifically ASP.NET Core) is a Microsoft framework for building web apps, APIs, and enterprise-level software.
+
+Layer	Technology
+Frontend	HTML/CSS/JS (or Blazor)
+Backend	ASP.NET Core (C#)
+Database	SQL Server / PostgreSQL / MySQL
+Language	C#
